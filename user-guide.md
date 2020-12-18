@@ -2,7 +2,7 @@
 
 # Preface
 
-In December 2020, I began a new role as Senior Director of Product Engineering at [Clearbanc](clearbanc.com), which means an entirely new organization who does not know who I am.  This is a good kick in the pants to update my stale User Guide.  I've [archived the previous version](user-guide-v01.html).
+In December 2020, I began a new role as Senior Director of Product Engineering at [Clearbanc](clearbanc.com), which means an entirely new organization who does not know who I am.  This is a good kick in the pants to update my stale User Guide.  I've [archived the previous version](user-guide-v01.html) ([diff](https://gist.github.com/fromdavelewis/e6e00c3a5c5c0c6ad9796f5c81c7b837/revisions)).
 
 # What This Is
 An attempt to bootstrap new relationships by documenting the kinds of nuance that might normally take months of working closely together to uncover.
