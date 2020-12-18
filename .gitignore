@@ -1,0 +1,7 @@
+.bash_history
+.bundle/
+.gem/
+.jekyll-metadata
+.vscode-server/data/Machine/
+.vscode-server/data/User/
+.vscode-server/data/logs/
