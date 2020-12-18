@@ -12,7 +12,7 @@ An excuse for priviledge or Get Out Of Jail Free card for behavior.
 
 # Getting Started
 
-We are still defining my exact responsibilities, but my starting point is working closely with [Vikas]() and [Igor]() and doing whatever I can to help them scale.  This will likely mean a mix of team management, administration, operations, and strategy.
+We are still defining my exact responsibilities, but my starting point is working closely with [Vikas](https://github.com/vigandhi) and [Igor](https://www.igorbarsi.com/) and doing whatever I can to help them scale.  This will likely mean a mix of team management, administration, operations, and strategy.
 
 The best way to contact me is to @ notify me in Slack in the most publically appropriate channel for our conversation. This might be a DM, or it might be #tech or #general or something else. There's almost always at least one other person who will benefit from our conversation, which is why I encourage the use of the public channels for nearly everything. I respond pretty quickly to Slack during daytime (roughly 9am-6pm ET), and I make it a priority to catch up on anything I missed when I come online at the start of the next work day. You can email [dave@clearbanc.com](mailto:dave@clearbanc.com), but I'm unlikely to respond right away (I do not have email notifications turned on). In an emergency you can call or text me if I’ve provided you the number.
 That may be enough for 90% of the audience. If our working relationship will last longer than a couple of questions, we might both benefit from some of the rest of the material here. But I leave that to your judgement.
