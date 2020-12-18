@@ -2,36 +2,32 @@
 
 # Preface
 
-In December 2020, I began a new role as Senior Director of Product Engineering at [Clearbanc](clearbanc.com), which means an entirely new organization who does not know who I am.  This is a good kick in the pants to update my stale User Guide.  I've [archived the previous version](user-guide-v01.html).
+After a year at InVision, I started working with an entirely new group of people. Building relationships with almost 30 new people living all round the world sounded intimidating(*), but I knew how important it was for everyone to know me in order to trust me. Inspired by Aaron Lerch's README [Google Docs Presentation (1F2P…WHA)](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p), I decided to try bootstrapping those relationships by documenting the kinds of nuance that might normally take months of working closely together to uncover.
 
-# What This Is
-An attempt to bootstrap new relationships by documenting the kinds of nuance that might normally take months of working closely together to uncover.
-
-# What This Is Not
-An excuse for priviledge or Get Out Of Jail Free card for behavior.
+The authoring experience has been about as weird as I expected, so thank you for going on this journey with me.
 
 # Getting Started
 
-We are still defining my exact responsibilities, but my starting point is working closely with [Vikas]() and [Igor]() and doing whatever I can to help them scale.  This will likely mean a mix of team management, administration, operations, and strategy.
+You are probably working with me because I am the Engineering Lead for the Design Operations zone at InVision. You might be an engineer on one of the squads in Design Operations, a product designer from another zone, a manager who reports directly to me -- regardless, you probably want to know how to reach me.
 
-The best way to contact me is to @ notify me in Slack in the most publically appropriate channel for our conversation. This might be a DM, or it might be #tech or #general or something else. There's almost always at least one other person who will benefit from our conversation, which is why I encourage the use of the public channels for nearly everything. I respond pretty quickly to Slack during daytime (roughly 9am-6pm ET), and I make it a priority to catch up on anything I missed when I come online at the start of the next work day. You can email [dave@clearbanc.com](mailto:dave@clearbanc.com), but I'm unlikely to respond right away (I do not have email notifications turned on). In an emergency you can call or text me if I’ve provided you the number.
+The best way to contact me is to @ notify me in Slack in the most publically appropriate channel for our conversation. This might be a DM, or it might be #engineering or #desops-dsm or something else. There's almost always at least one other person who will benefit from our conversation, which is why I encourage the use of the public channels for nearly everything. I respond pretty quickly to Slack during working hours (10am-6pm ET), and I make it a priority to catch up on anything I missed when I come online at the start of the next work day. You can email [davidlewis@invisionapp.com](mailto:davidlewis@invisionapp.com), but I'm unlikely to respond right away (I do not have email notifications turned on). In an emergency you can call or text me if I’ve provided you the number.
 That may be enough for 90% of the audience. If our working relationship will last longer than a couple of questions, we might both benefit from some of the rest of the material here. But I leave that to your judgement.
 
 I wanted to promise to keep this short, but I'm much more likely to go on and on.
 
 # User Interface
 
-I generally detest meetings(*). If someone has information to present, I will often request that they share the material for consumption and commenting asynchronously rather than requiring everyone to find a shared open time on our calendars. If we are collaborating, I may suggest we try to work it out via Slack (which also allows others to follow or catch-up on the conversation).
+I generally detest meetings(*). Additionally, as an employee at a global company, I'm very aware of the conflict that timezones can inflict when trying to get everyone's face in the room at the same time. If someone has information to present, I will often request that they share the material for consumption and commenting asynchronously rather than requiring everyone to find a shared open time on our calendars, If we are collaborating, I may suggest we try to work it out via Slack (which also allows others to follow or catch-up on the conversation).
 
 However, I understand that others may work much better with faces to read, and it can be more efficient to interact communally via video than via text. There is also value in seeing the faces that go with the individuals -- it can be easy to abstract the humanity away from the digital personalities which has a negative impact on teamwork and trust.
 
 ## If I'm Managing You
 
-We'll have weekly 1:1s scheduled for an thirty minutes to an hour on Zoom. I may have context or conversations I want to share, but the floor is open for anything on your mind. I prefer not to go through a checklist of work items -- we should have some other mechanism for sharing that status. If there are things related to work items you want to discuss, then we definitely can! It is my responsibility to make sure you know how you are doing and what growth looks like for you; when it is review time you should have no surprises, just documentation of things we've already been talking about.
+We'll have weekly 1:1s scheduled for an hour on Zoom. I may have context or conversations I want to share, but the floor is open for anything on your mind. I prefer not to go through a checklist of work items -- we should have some other mechanism for sharing that status. If there are things related to work items you want to discuss, then we definitely can! It is my responsibility to make sure you know how you are doing and what growth looks like for you; when it is review time you should have no surprises, just documentation of things we've already been talking about.
 
 ## If I'm Managing Your Manager
 
-It is important that we still know each other. I will probably not schedule frequent skip levels(*), but I will have office hours and other ways to make sure we have direct communication. We are all on the same team and you should feel that.
+It is important that we still know each other. I will probably not schedule skip levels(*), but I will have office hours and other ways to make sure we have direct communication. We are all on the same team and you should feel that.
 
 # Technical Specifications
 
@@ -55,8 +51,8 @@ I really appreciate the way Gallup's StrengthsFinder details the balconies and b
 
 According to Meyers-Briggs, I am an INTP. I found this summary to fit me pretty well: [my-personality-test.com/personality-type-indicator/intp/intp-strengths-and-weaknesses](https://my-personality-test.com/personality-type-indicator/intp/intp-strengths-and-weaknesses)
 
-- Able to consider many factors.
-- Hold themselves and others to a very high standard.
+- [A]ble to consider many factors .
+- [H]old themselves and others to a very high standard.
 - Others may view INTPs as impatient and harsh.
 
 The Enneagram says I am a 5, which is basically the same description: "Observers have a need for knowledge and are introverted, curious, analytical, and insightful." [http://www.9types.com/descr/?type=5](http://www.9types.com/descr/?type=5)
@@ -95,7 +91,7 @@ I also act much like a **Servant Leader**, but I don't really like that phrase, 
     - Try turning off and then turning back on again. You might need to unplug entirely for a period and then plug back in.
 # FAQ
 - What are your working/availability hours?
-    - I adhere very closely to a 9am - 6pm ET Mon-Fri. I sometimes start early to balance out an appointment or the need to leave early or because it can be a very productive time of day for me.
+    - I adhere very closely to InVision's expectation of 10am - 6pm ET Mon-Thu, 10am - 3pm ET Fri. I sometimes start early to balance out an appointment or the need to leave early or because it can be a very productive timeof day for me.
 - Can you point me at some other README examples?
     - Molly White [github.com/molly/manager-README](https://github.com/molly/manager-README)
     - Aaron Lerch [https://docs.google.com/presentation/u/1/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA](https://docs.google.com/presentation/u/1/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA)
@@ -106,7 +102,7 @@ I also act much like a **Servant Leader**, but I don't really like that phrase, 
 # Appendix A
 ## Biographical Details
 
-The fastest way to get a sense of my work history is on LinkedIn [www.linkedin.com/in/callmelewis/](http://www.linkedin.com/in/callmelewis/). You can see mostly older work on GitHub [github.com/fromdavelewis](http://github.com/fromdavelewis). I rarely tweet [https://twitter.com/fromdavelewis](https://twitter.com/fromdavelewis)
+The fastest way to get a sense of my work history is on LinkedIn [www.linkedin.com/in/callmelewis/](http://www.linkedin.com/in/callmelewis/). You can see mostly older work on GitHub [github.com/d-a-l-l](http://github.com/d-a-l-l). I rarely tweet [https://twitter.com/d_a_l_l](https://twitter.com/d_a_l_l)
 
 Outside of social media: I live in Charlottesville, VA with my wife, Lena, and our two children, River and Zeke. We've been here since 2002, which makes it the longest I have ever lived in one place. When I'm not working, I am generally hanging out with my family in one way or another, whether it's kicking the soccer ball around or playing board games or reading together.
 
@@ -114,13 +110,11 @@ In a former life, I was a competitive Ultimate Frisbee player, but now most of m
 
 I have been a part of lots of different kinds of teams (debate, baseball, programming, drama, quiz bowl, etc), with a wide variety of people in diverse capacities -- I've been the most skilled, the least skilled, the oldest, the youngest, the loudest, the quietest, the middlest -- all of which contributes to my management style.
 
-About seven years ago, I was diagnosed with generalized anxiety disorder and major depressive disorder. This was a major factor in my decison to take a work sabbatical in 2016 -- despite stretches of improvement, I was still very sick and I could not see a path to recovery while still working in my existing job. With the help of family, friends, therapy, and medication, I am now much better at managing my condition. This includes paying close attention to "work-life balance" and day-to-day mental health not only for myself but for everyone I work with.
+About five years ago, I was diagnosed with generalized anxiety disorder and major depressive disorder. This was a major factor in my decison to take a work sabbatical in 2016 -- despite stretches of improvement, I was still very sick and I could not see a path to recovery while still working in my existing job. With the help of family, friends, therapy, and medication, I am now much better at managing my condition. This includes paying close attention to "work-life balance" and day-to-day mental health not only for myself but for everyone I work with.
 
 I'm an avid reader of science fiction and fantasy, I enjoy doing word puzzles, and I enjoy games of all kinds.
 
 # Appendix B
 ## Revision History
-- v0.2 2020-12-18 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide.html) 
-- v0.1 2018-08-30 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide-v01.html) formerly hosted in [Dropbox Paper](https://paper.dropbox.com/doc/Dave-Lewis-A-User-Guide-4URBGdGHs89F8lczqZfHj) 
-
+- v0.1 2018-08-30 [+Dave Lewis, A User Guide](https://paper.dropbox.com/doc/Dave-Lewis-A-User-Guide-4URBGdGHs89F8lczqZfHj) 
 
