@@ -1,3 +1,5 @@
+> **ARCHIVED** -> [Current version](user-guide.html)
+
 # Dave Lewis, A User Guide
 
 # Preface
