@@ -1,0 +1,5 @@
+[user]
+	email = dalewis@tikva.com
+	name = Dave Lewis
+[credential]
+	helper = "!f() { /home/dev/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/node /tmp/vscode-remote-containers-e11c5b9cc895acf416b93808dced84c3f97f37d9.js $*; }; f"

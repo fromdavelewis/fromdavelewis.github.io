@@ -1,1 +1,10 @@
+repository: fromdavelewis/fromdavelewis.github.io
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+- github-pages
 theme: jekyll-theme-slate
