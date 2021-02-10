@@ -51,9 +51,9 @@ Don't be afraid to go down the rabbit hole of connecting with one person and the
 
 Make it clear you are hiring, so that if you engage at all via LinkedIn, people will see it:
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623049205_image.png)
+![](erica.png)
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623055952_image.png)
+![](jhunt.png)
 
 ----------
 
@@ -64,11 +64,11 @@ This is easy to do and will give you a reference for the rest of your conversati
 
 **Examples:**
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623072821_image.png)
+![](kk.png)
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623080301_image.png)
+![](ryan.png)
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623087774_image.png)
+![](me.png)
 
 
 Your best advocates will `Like` or `Share` this posting with their own networks, giving you visibility to another layer of people. 
@@ -122,13 +122,13 @@ Unfortunately, LinkedIn's native search is extremely limited.  Fortunately, Goog
 > NOTE: Do this in a browser that is logged in to Google.  Otherwise you will likely trigger their robot detection, and going through the captchas is really tedious.  If you are logged in, you can just check the "I am not a robot" box and it will believe you 🙂 
 
 
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623132842_image.png)
+![](unusual-traffic.png)
 
 
 Using the in-site (X-Ray) search, you can limit your search to LinkedIn profiles:
 
     -intitle:"profiles" -inurl:"dir/ " site:linkedin.com/in/ OR site:linkedin.com/pub/
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623142010_image.png)
+![](search-1.png)
 
 
 Now you can start to add useful filters.  One obvious one might be "engineering manager"
@@ -148,13 +148,13 @@ I also wanted to filter out the big tech companies, so I used location as a prox
 And of course if there are nice-to-haves, you can include them:
 
     "golang" -"California" -"San Francisco Bay Area" -"New York" "Present (2 years" "engineering manager" -intitle:"profiles" -inurl:"dir/ " site:linkedin.com/in/ OR site:linkedin.com/pub/
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623159121_image.png)
+![](search-2.png)
 
 
 or target Girls Who Code supporters:
 
     "girls who code" -"California" -"San Francisco Bay Area" -"New York" "Present (2 years" "engineering manager" -intitle:"profiles" -inurl:"dir/ " site:linkedin.com/in/ OR site:linkedin.com/pub/
-![](https://paper-attachments.dropbox.com/s_686B5EDC911D2C773260E56E71700FAFD3A97F995E38D636632C8C31920167FD_1611623168546_image.png)
+![](search-3.png)
 
 ## Second: Become one of those people.
 
