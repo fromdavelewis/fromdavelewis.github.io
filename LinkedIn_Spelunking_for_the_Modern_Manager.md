@@ -198,6 +198,7 @@ This didn't 😞
     Hi *****,
     This is a cold call :) I'm a Director of Engineering at InVision, and I'm looking for Engineering Managers with strong backgrounds to work with us. If building the future of design at scale, working with keen, collaborative peers, or the ability to work anywhere in the world raises your eyebrows, I would love the opportunity to chat, either asynchronously here or via video. I hope to hear from you soon. Thanks!
     Dave
+
 ## Fourth: They really like me!
 
 Someone wrote back!
@@ -205,14 +206,6 @@ Someone wrote back!
 - They might just be considerately declining your interest -- but this is still someone you might talk to down the road, so make sure to promptly respond in kind, and leave the door open.
 - If they are interested, set up a time to talk!  This is essentially the Recruiter Screen and Hiring Manager Screen rolled into one.  Set aside about 30-45 minutes to explain who you are, why you are interested in them, and what the position is.  You will also be able to get some more detail on who they are, their work history, and what they are looking for.
     - Your goal is to know by the end of the conversation if you want to bring them into the interview loop or not.  If you run out of time, that's ok -- you might have a brief 15 minute intro conversation and then follow up with 30 minutes that's more screen-focussed, if there's still interest on both sides.
-- If there's a match, submit them to Greenhouse and set up that Interview loop!  Don't leave them hanging now that you have their attention.
+- If there's a match, get them into your talent tracking tool (Greenhouse, etc) and set up that Interview loop!  Don't leave them hanging now that you have their attention.
 - Because you are now their point of contact, you are responsible for "keeping them warm" between interviews: "Hey, here's what's coming up next!", "You'll be talking to A and B, it should be a great conversation.", "You'll be getting invites soon for the next couple of interviews that will focus on Y and Z."
-- You'll need to let them down if there's not a fit.  Don't worry!  People ops has great boilerplate that you can use.
-
-
-## This is a live document!  When you find things that work, add them!
-
-
-
-
-
+- You'll need to let them down if there's not a fit.  Check with your People team to see if they have some great boilerplate you can borrw.
