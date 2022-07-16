@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://0.0.0.0:4000/LinkedIn_Spelunking_for_the_Modern_Manager.html</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/user-guide-v01.html</loc>
 </url>
 <url>
@@ -8,6 +11,6 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/</loc>
-<lastmod>2020-12-18T19:14:38+00:00</lastmod>
+<lastmod>2022-07-07T20:22:02+00:00</lastmod>
 </url>
 </urlset>
