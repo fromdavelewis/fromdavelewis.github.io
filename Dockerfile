@@ -14,6 +14,7 @@ WORKDIR /home/dev
 CMD [ "/bin/bash" ]
 
 # export PATH="$(ruby -r rubygems -e 'puts Gem.user_dir')/bin:$PATH"
-# gem install --user-install jekyll bundler nokogiri #pkg-config
+# gem install --user-install jekyll bundler nokogiri
 # bundle config set --local path "$(ruby -r rubygems -e 'puts Gem.user_dir')/gems"
 # bundle install
+# bundle exec jekyll serve --host=0.0.0.0
