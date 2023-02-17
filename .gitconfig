@@ -2,4 +2,4 @@
 	email = dalewis@tikva.com
 	name = Dave Lewis
 [credential]
-	helper = "!f() { /home/dev/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/node /tmp/vscode-remote-containers-1a18b5cc2ff1da430728f71f3239254dc3273765.js $*; }; f"
+	helper = "!f() { /home/dev/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/node /tmp/vscode-remote-containers-d5c35be4bd1229a105b7252e6426b96efe97ff78.js git-credential-helper $*; }; f"

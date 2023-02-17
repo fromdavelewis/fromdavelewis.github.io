@@ -9,3 +9,4 @@ plugins:
 - jemoji
 - github-pages
 theme: jekyll-theme-slate
+exclude: ['.vscode-server', 'node_modules', ...]

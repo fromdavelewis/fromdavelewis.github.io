@@ -2,7 +2,7 @@
 
 # Preface
 
-In December 2020, I began a new role as Senior Director of Product Engineering at [Clearbanc](clearbanc.com), which means an entirely new organization who does not know who I am.  This is a good kick in the pants to update my stale User Guide.  I've [archived the previous version](user-guide-v01.html) ([diff](https://gist.github.com/fromdavelewis/e6e00c3a5c5c0c6ad9796f5c81c7b837/revisions)).
+In May 2022, I began a new role as Head of Engineering at [Mobot](mobot.io), which means an entirely new organization who does not know who I am.  I've archived the previous versions of this user guide [v01](user-guide-v01.html) ([diff](https://gist.github.com/fromdavelewis/e6e00c3a5c5c0c6ad9796f5c81c7b837/revisions)), [v02](user-guide-v02.html) ([diff](https://gist.github.com/fromdavelewis/e6e00c3a5c5c0c6ad9796f5c81c7b837/revisions)).
 
 # What This Is
 An attempt to bootstrap new relationships by documenting the kinds of nuance that might normally take months of working closely together to uncover.
@@ -12,12 +12,9 @@ An excuse for priviledge or Get Out Of Jail Free card for behavior.
 
 # Getting Started
 
-We are still defining my exact responsibilities, but my starting point is working closely with [Vikas](https://github.com/vigandhi) and [Igor](https://www.igorbarsi.com/) and doing whatever I can to help them scale.  This will likely mean a mix of team management, administration, operations, and strategy.
+<!-- We are still defining my exact responsibilities, but my starting point is working closely with [Vikas](https://github.com/vigandhi) and [Igor](https://www.igorbarsi.com/) and doing whatever I can to help them scale.  This will likely mean a mix of team management, administration, operations, and strategy. -->
 
-The best way to contact me is to @ notify me in Slack in the most publically appropriate channel for our conversation. This might be a DM, or it might be #tech or #general or something else. There's almost always at least one other person who will benefit from our conversation, which is why I encourage the use of the public channels for nearly everything. I respond pretty quickly to Slack during daytime (roughly 9am-6pm ET), and I make it a priority to catch up on anything I missed when I come online at the start of the next work day. You can email [dave@clearbanc.com](mailto:dave@clearbanc.com), but I'm unlikely to respond right away (I do not have email notifications turned on). In an emergency you can call or text me if I’ve provided you the number.
-That may be enough for 90% of the audience. If our working relationship will last longer than a couple of questions, we might both benefit from some of the rest of the material here. But I leave that to your judgement.
-
-I wanted to promise to keep this short, but I'm much more likely to go on and on.
+The best way to contact me is to @ notify me in Slack in the most publically appropriate channel for our conversation. This might be a DM, or it might be #eng or #general or something else. There's almost always at least one other person who will benefit from our conversation, which is why I encourage the use of the public channels for nearly everything. I respond pretty quickly to Slack during daytime (roughly 9am-6pm ET), and I make it a priority to catch up on anything I missed when I come online at the start of the next work day. You can email [dave@teammobot.com](mailto:dave@teammobot.com), but I'm unlikely to respond right away (I do not have email notifications turned on). In an emergency you can call or text me if I’ve provided you the number.
 
 # User Interface
 
@@ -27,7 +24,7 @@ However, I understand that others may work much better with faces to read, and i
 
 ## If I'm Managing You
 
-We'll have weekly 1:1s scheduled for an thirty minutes to an hour on Zoom. I may have context or conversations I want to share, but the floor is open for anything on your mind. I prefer not to go through a checklist of work items -- we should have some other mechanism for sharing that status. If there are things related to work items you want to discuss, then we definitely can! It is my responsibility to make sure you know how you are doing and what growth looks like for you; when it is review time you should have no surprises, just documentation of things we've already been talking about.
+We'll have weekly 1:1s scheduled for a thirty minutes to an hour on Zoom. I may have context or conversations I want to share, but the floor is open for anything on your mind. I prefer not to go through a checklist of work items -- we should have some other mechanism for sharing that status. If there are things related to work items you want to discuss, then we definitely can! It is my responsibility to make sure you know how you are doing and what growth looks like for you; when it is review time you should have no surprises, just documentation of things we've already been talking about.
 
 ## If I'm Managing Your Manager
 
@@ -99,8 +96,6 @@ I also act much like a **Servant Leader**, but I don't really like that phrase, 
 - Can you point me at some other README examples?
     - Molly White [github.com/molly/manager-README](https://github.com/molly/manager-README)
     - Aaron Lerch [https://docs.google.com/presentation/u/1/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA](https://docs.google.com/presentation/u/1/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA)
-- Isn't this all a bit twee?
-    - Oh yes. Guilty.
 - My question isn't answered here. Now what?
     - I strive to be pretty transparent about everything, so you can always know where I'm coming from. I won't be insulted by anything you ask about and I will probably answer. :)
 # Appendix A
@@ -114,13 +109,14 @@ In a former life, I was a competitive Ultimate Frisbee player, but now most of m
 
 I have been a part of lots of different kinds of teams (debate, baseball, programming, drama, quiz bowl, etc), with a wide variety of people in diverse capacities -- I've been the most skilled, the least skilled, the oldest, the youngest, the loudest, the quietest, the middlest -- all of which contributes to my management style.
 
-About seven years ago, I was diagnosed with generalized anxiety disorder and major depressive disorder. This was a major factor in my decison to take a work sabbatical in 2016 -- despite stretches of improvement, I was still very sick and I could not see a path to recovery while still working in my existing job. With the help of family, friends, therapy, and medication, I am now much better at managing my condition. This includes paying close attention to "work-life balance" and day-to-day mental health not only for myself but for everyone I work with.
+About nine years ago, I was diagnosed with generalized anxiety disorder and major depressive disorder. This was a major factor in my decison to take a work sabbatical in 2016 -- despite stretches of improvement, I was still very sick and I could not see a path to recovery while still working in my existing job. With the help of family, friends, therapy, and medication, I am now much better at managing my condition. This includes paying close attention to "work-life balance" and day-to-day mental health not only for myself but for everyone I work with.
 
 I'm an avid reader of science fiction and fantasy, I enjoy doing word puzzles, and I enjoy games of all kinds.
 
 # Appendix B
 ## Revision History
-- v0.2 2020-12-18 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide.html) 
+- v0.3 2022-07-18 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide.html) 
+- v0.2 2020-12-18 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide-v02.html) 
 - v0.1 2018-08-30 [+Dave Lewis, A User Guide](https://fromdavelewis.github.io/user-guide-v01.html) formerly hosted in [Dropbox Paper](https://paper.dropbox.com/doc/Dave-Lewis-A-User-Guide-4URBGdGHs89F8lczqZfHj) 
 
 
