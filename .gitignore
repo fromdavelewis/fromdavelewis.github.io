@@ -7,3 +7,4 @@
 .vscode-server/data/User/
 .vscode-server/data/logs/
 .vscode-server/extensions/
+.vscode-server/bin/
